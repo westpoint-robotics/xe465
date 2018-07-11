@@ -9,4 +9,4 @@ Mechatronics is the integration of mechanical engineering, electrical engineerin
 
 ----------
 ## Laboratory Assignments
-### [Lab 4](https://github.com/westpoint-robotics/xe475/blob/master/lab4.md)
+### [Lab 4](https://github.com/westpoint-robotics/xe475/blob/master/lab4/lab4.md)
