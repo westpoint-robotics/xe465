@@ -1,0 +1,16 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ColorPAL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attachPAL	KEYWORD2
+readPAL 	KEYWORD2
+detectPAL	KEYWORD2
+redPAL		KEYWORD2
+greenPAL	KEYWORD2
+bluePAL		KEYWORD2
+resetPAL 	KEYWORD2
